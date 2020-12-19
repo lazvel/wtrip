@@ -1,0 +1,1 @@
+Small Java Spring CRUD application using JPA, Hibernate and MySQL
